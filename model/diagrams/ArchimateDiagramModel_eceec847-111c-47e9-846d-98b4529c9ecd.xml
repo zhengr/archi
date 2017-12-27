@@ -70,8 +70,8 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="417db5e1-aaaa-4ed2-b283-4c0f631b34d0">
       <bounds
-          x="48"
-          y="72"
+          x="82"
+          y="100"
           width="120"
           height="55"/>
       <archimateElement
@@ -136,7 +136,7 @@
         targetConnections="a989c724-2654-480c-9eaf-f7e3e815adf7">
       <bounds
           x="82"
-          y="234"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
